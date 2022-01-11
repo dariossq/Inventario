@@ -329,6 +329,7 @@
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
+    <Content Include="Scripts\app\registroempresa.js" />
     <Content Include="Scripts\js\bootstrap.js" />
     <Content Include="Scripts\js\bootstrap.min.js" />
     <None Include="Scripts\js\jquery-3.4.1.intellisense.js" />
@@ -363,7 +364,6 @@
     <Folder Include="Content\Plugins\Validarcontraseñas\js\" />
     <Folder Include="Content\Style\" />
     <Folder Include="Models\" />
-    <Folder Include="Scripts\app\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
